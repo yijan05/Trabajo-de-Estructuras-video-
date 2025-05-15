@@ -37,6 +37,8 @@ class ListaDoble {
         }
     }
 
+    //sampe to commit
+
     buscarNodo(valor) {
         let pivote = this.primero;
         while (pivote !== null) {
